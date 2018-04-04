@@ -45,26 +45,28 @@
 
 ### その他
 - 業務で使用
-    - CentOS7
-    - CentOS6
-    - Apache
-    - PostgreSQL
-    - MySQL
-    - MariaDB
-    - Airflow
-    - Zabbix
-    - Docker
-    - Selenium
-        - Zalenium
-        - Facebook webdriver
-    - tmux
-    - Tera term(マクロ)
-    - WinSCP(マクロ)
-    - Fiddler
-    - Eclipse
-    - PyCharm
-    - SublimeText3
-    - tcpdump
+    - サーバ系
+        - CentOS7
+        - CentOS6
+        - Apache
+        - PostgreSQL
+        - MySQL
+        - MariaDB
+        - Airflow
+        - Zabbix
+        - Docker
+        - Selenium
+            - Zalenium
+            - Facebook webdriver
+    - ツール
+        - tmux
+        - Tera term(マクロ)
+        - WinSCP(マクロ)
+        - Fiddler
+        - Eclipse
+        - PyCharm
+        - SublimeText3
+        - tcpdump
 - 個人で使用
     - Ubuntu12.04
     - Ubuntu14.04
@@ -74,6 +76,7 @@
 
 ## 強み
 TBD
+
 ## やったことはないが興味があるもの
 TBD
 
@@ -100,17 +103,49 @@ TBD
 ## 職務経歴
 
 ### 2014/04 - : 会社名
-
 職務: システムエンジニア
 
 #### Webサイト作成
-
-- Java(Struts2.3, Spring Framework4, MyBatis)を使用したWebサイトを作成
+- 一般向けWebサイトを作成
+- 業務内容 : システム開発
+- 使用言語
+    - Java
+        - Struts2.3
+        - Spring Framework4
+        - MyBatis(iBatis3)
+- 使用環境
+    - CentOS7
+    - Tomcat7
 
 #### LDAPサーバ構築
-
+- 業務内容 : 環境構築 / 移行
 - 既存製品のLDAPサーバの構築を実施
+- 使用言語
+    - python
+    - bash
+    - awk
+- 使用環境
+    - CentOS7
+    - LDAP(製品)
+    - Cassandra
 
+#### Q&Aサイト作成
+- 業務内容 :
+- (概要)
+- 使用言語
+- 使用環境
+
+#### 社内システム改修
+- 業務内容 :
+- (概要)
+- 使用言語
+- 使用環境
+
+#### 社内システム作成
+- 業務内容 :
+- (概要)
+- 使用言語
+- 使用環境
 
 # 参考
 本職務経歴書のテンプレートは [okohsさんのテンプレート](https://github.com/okohs/Curriculum-Vitae-template) を使用させていただきました。
